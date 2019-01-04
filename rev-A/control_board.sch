@@ -22577,7 +22577,7 @@ Source: http://www.onsemi.co.jp .. LM317M-D.PDF</description>
 <part name="CASE_TEMP" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X3" device="" package3d_urn="urn:adsk.eagle:package:22458/2"/>
 <part name="+3V18" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
 <part name="SUPPLY57" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="GND" device=""/>
-<part name="R41" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="49.9"/>
+<part name="R41" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="12.4k"/>
 <part name="SUPPLY54" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="AGND" device=""/>
 <part name="D2" library="kj4qlp" deviceset="S1B" device=""/>
 <part name="D3" library="kj4qlp" deviceset="S1B" device=""/>
